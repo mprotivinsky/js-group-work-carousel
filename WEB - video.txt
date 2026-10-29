@@ -1,0 +1,9 @@
+WEB - video
+Promise, Resolve a Await
+Promise je obal pro hodnotu, která je ze začátku neznámá, ale v budoucnu se může vyřešit (resolve) na konkrétní hodnotu. Příkladem může být volání API třetí strany. Pokud se něco pokazí, Promise může být odmítnuta (reject). Pro práci s Promise můžeme použít asynchronní funkci, ve které pomocí await počkáme na výsledek, aniž bychom blokovali celý program.
+
+Objekty
+Objekty slouží k uchovávání více souvisejících údajů na jednom místě. Můžeme do nich ukládat například jméno, věk nebo další vlastnosti uživatele. Mohou obsahovat také funkce (metody).
+
+Rozdíly oproti C#
+V JavaScriptu můžeme objekty vytvářet přímo bez definování třídy a jednoduše jim přidávat nebo odebírat vlastnosti. V C# se objekty většinou vytvářejí podle předem definovaných tříd a jejich vlastnosti mají určené datové typy.
